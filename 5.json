@@ -1,8 +1,8 @@
 {
   "prompt": "A moody, cinematic, ultra-photorealistic close-up of a baby's wooden crib mobile hanging in a dimly lit nursery. The circular wooden canopy has evenly spaced metal grommets forming a clear, countable structure. Most of the hanging strings are snapped or frayed, leaving empty dangling threads of varying lengths that form a descending pattern. Only three strings still hold animals: a small elephant, a tiger, and a bird, with one appearing slightly smoother and more polished than the others. The remaining strings appear slightly taut, with subtle highlights suggesting tension. One fallen wooden animal lies faintly visible in the shadowed crib below. The frayed rope ends are sharply detailed with rim lighting, emphasizing the break. Soft dramatic lighting from the upper left creates strong contrast, with a shallow depth of field and blurred nursery background. Somber color palette, no text, no labels, no charts.",
   "model": "DALL·E 3",
-  "dataset_name": "WWF Living Planet Report 2022",
-  "dataset_url": "https://wwflpr.awsassets.panda.org/downloads/lpr_2022_full_report.pdf",
+  "dataset_name": "Living Planet Index (LPI) - Zoological Society of London & WWF",
+  "dataset_url": "https://livingplanetindex.org/data_portal",
   "insight": "Monitored vertebrate wildlife populations have declined by an average of 69% since 1970, represented as a mostly empty mobile with only a few remaining elements.",
   "publish_email": true
 }
